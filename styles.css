@@ -1,0 +1,10 @@
+body { 
+	background-color: silver;
+}
+
+#taustakuva {
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: silver;
+	text-shadow: 2px 2px black;
+}
